@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price
+1,Wireless Mouse v1,Electronics,47.8
+2,Wireless Mouse v2,Electronics,131.21
+3,Bluetooth Speaker v1,Electronics,121.61
+4,Bluetooth Speaker v2,Electronics,72.91
+5,USB-C Hub v1,Electronics,15.92
+6,USB-C Hub v2,Electronics,114.35
+7,Laptop Stand v1,Electronics,37.71
+8,Laptop Stand v2,Electronics,103.07
+9,Webcam v1,Electronics,102.79
+10,Webcam v2,Electronics,62.62
+11,Desk Lamp v1,Home,127.63
+12,Desk Lamp v2,Home,85.81
+13,Throw Pillow v1,Home,18.09
+14,Throw Pillow v2,Home,62.21
+15,Ceramic Mug v1,Home,43.35
+16,Ceramic Mug v2,Home,22.92
+17,Wall Clock v1,Home,58.44
+18,Wall Clock v2,Home,113.61
+19,Storage Bin v1,Home,43.01
+20,Storage Bin v2,Home,60.25
+21,Cotton T-Shirt v1,Apparel,97.59
+22,Cotton T-Shirt v2,Apparel,58.86
+23,Running Shoes v1,Apparel,102.85
+24,Running Shoes v2,Apparel,73.36
+25,Denim Jacket v1,Apparel,94.83
+26,Denim Jacket v2,Apparel,141.76
+27,Wool Scarf v1,Apparel,52.56
+28,Wool Scarf v2,Apparel,93.46
+29,Baseball Cap v1,Apparel,98.91
+30,Baseball Cap v2,Apparel,97.13
+31,Notebook Set v1,Stationery,72.32
+32,Notebook Set v2,Stationery,106.66
+33,Fountain Pen v1,Stationery,99.14
+34,Fountain Pen v2,Stationery,21.92
+35,Sticky Notes v1,Stationery,11.58
+36,Sticky Notes v2,Stationery,10.4
+37,Desk Organizer v1,Stationery,149.41
+38,Desk Organizer v2,Stationery,21.84
+39,Whiteboard v1,Stationery,39.05
+40,Whiteboard v2,Stationery,82.94
